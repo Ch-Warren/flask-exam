@@ -1,0 +1,8 @@
+POST http://127.0.0.1:5000/custum/add
+Content-Type: application/json
+
+{
+    "name":"Chris",
+    "deliveryAddress":"boulevar",
+    "contact":"30658888",
+    "active":"dfgd"
